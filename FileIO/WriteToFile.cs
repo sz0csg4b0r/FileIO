@@ -6,6 +6,9 @@
         {
             File.WriteAllLines(fileName, data);
             //Ez csak egy teszt sor.
+
+            // Nem pusholunk mainbe!! 
+            // Nem pusholunk mainbe2!! 
         }
     }
 }
