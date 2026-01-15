@@ -6,7 +6,7 @@
         {
             File.WriteAllLines(fileName, data);
             //Ez csak egy teszt sor.
-            //Most akkor mehet a push a mainbe? 
+            //Most akkor mehet a push a mainbe???
             // Nem pusholunk mainbe!! 
         }
     }
